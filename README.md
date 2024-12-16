@@ -74,4 +74,4 @@ An array of 11 random elements is generated, and the sorting process is displaye
 
 ## License
 
-This project is open source and available under [MIT](https://choosealicense.com/licenses/mit/)# selection-sort-visualization
+This project is open source and available under [MIT](https://choosealicense.com/licenses/mit/)
