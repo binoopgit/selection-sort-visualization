@@ -44,7 +44,7 @@ To run this code, you will need:
 You can install Matplotlib using pip:
 ```bash
 pip install matplotlib
-
+```
 ## How the Visualization Works
 
 The algorithm iteratively selects the smallest element from the unsorted section and swaps it with the leftmost unsorted element.
